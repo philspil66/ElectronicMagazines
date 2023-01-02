@@ -1,0 +1,18 @@
+# Popular Electronics
+
+Popular Electronics was an American magazine published by John August Media, LLC, and hosted at TechnicaCuriosa.com. The magazine was started by Ziff-Davis Publishing Company in October 1954 for electronics hobbyists and experimenters. It soon became the "World's Largest-Selling Electronics Magazine". In April 1957 Ziff-Davis reported an average net paid circulation of 240,151 copies. Popular Electronics was published until October 1982 when, in November 1982, Ziff-Davis launched a successor magazine, Computers & Electronics. During its last year of publication by Ziff-Davis, Popular Electronics reported an average monthly circulation of 409,344 copies. The title was sold to Gernsback Publications, and their Hands-On Electronics magazine was renamed to Popular Electronics in February 1989, and published until December 1999. The Popular Electronics trademark was then acquired by John August Media, who revived the magazine, the digital edition of which is hosted at TechnicaCuriosa.com, along with sister titles, Mechanix Illustrated and Popular Astronomy.
+
+A cover story on Popular Electronics could launch a new product or company. The most famous issue, January 1975, had the Altair 8800 computer on the cover and ignited the home computer revolution. Paul Allen showed that issue to Bill Gates. They wrote a BASIC interpreter for the Altair computer and started Microsoft.
+
+## How it started
+
+Radio & Television News was a magazine for professionals and the editors wanted to create a magazine for hobbyists. Ziff-Davis had started Popular Aviation in 1927 and Popular Photography in 1934 but found that Gernsback Publications had the trademark on Popular Electronics. It was used in Radio-Craft from 1943 until 1948. Ziff-Davis bought the trademark and started Popular Electronics with the October 1954 issue.
+
+Many of the editors and authors worked for both Ziff-Davis magazines. Initially Oliver Read was the editor of both Radio & Television News and Popular Electronics. Read was promoted to Publisher in June 1956. Oliver Perry Ferrell took over as editor of Popular Electronics and William A. Stocklin became editor of Radio & Television News. In Radio & TV News John T. Frye wrote a column on a fictional repair shop where the proprietor, Mac, would interact with other technicians and customers. The reader would learn repair techniques for servicing radios and TVs. In Popular Electronics his column was about two high school boys, Carl and Jerry. Each month the boys would have an adventure that would teach the reader about electronics.
+
+By 1954 building audio and radio kits was a growing pastime. Heathkit and many others offered kits that included all of the parts with detailed instructions. The premier cover shows the assembly of a Heathkit A-7B audio amplifier. Popular Electronics would offer projects that were built from scratch; that is, the individual parts were purchased at a local electronics store or by mail order. The early issues often showed these as father and son projects.
+
+Most of the early projects used vacuum tubes, as transistors (which had just become available to hobbyists) were expensive: the small-signal Raytheon CK722 transistor was US$3.50 in the December 1954 issue, while a typical small-signal vacuum tube (the 12AX7) was $0.61. Lou Garner wrote the feature story for the first issue, a battery-powered tube radio that could be used on a bicycle. Later he was given a column called Transistor Topics (June 1956). Transistors soon cost less than a dollar and transistor projects became common in every issue of Popular Electronics. The column was renamed to Solid State in 1965 and ran under his byline until December 1978.
+
+
+
