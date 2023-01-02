@@ -1,1 +1,2 @@
-# ElectronicMagazines
+# Electronic Magazines
+
